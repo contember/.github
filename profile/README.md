@@ -1,5 +1,6 @@
-👋 Hello!
-Contember is an open source platform for frontend developers to easily build and run custom backends.
+# 👋 Hello!
+
+Contember is an **open source platform** for frontend developers to easily build and run custom backends.
 
 Describe your backend in declarative low-code and instantly see how it works in real life.
 
