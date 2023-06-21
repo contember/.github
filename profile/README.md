@@ -1,21 +1,48 @@
-# 👋 Hello!
+# 👋 What is Contember
 
-Contember is an **open source platform** for frontend developers to easily build and run custom backends.
+Contember is an open-source platform that provides a swift route to building and managing data-driven web applications.
 
-Describe your backend in declarative low-code and instantly see how it works in real life.
+It's the power tool you need for your web development toolkit. Here's why:
 
-## Quick overview
+- **Open Source.** No artificial limitations for number of users or vendor lock-in.
+- **Declarative data modeling**: Define your data models in TypeScript, and Contember Engine generates a **GraphQL API** for you instantly.
+- **Powerful React framework**: With Contember Interface, construct custom user interfaces with ease using high-level React components.
+- **Automatic database handling**: We generate a well-structured PostgreSQL database, handle automatic database migrations, and provide built-in authentication plus a robust role-based access control system.
 
-- Contember gives you the GraphQL API right from your schema definition. It doesn't force arbitrary collections or posts, you're in control. And in the background, well-structured PostgreSQL is running.
-- Your user interface does not depend on your data structure. With [Contember Interface](https://github.com/contember/interface), you can build any UI you want with high-level React components and automatically connect to GraphQL provided by the [Contember Engine](https://github.com/contember/engine). And you can use your own React.js components wherever you want.
-- Contember has built-in authentication and powerful role-based access control, handles database migrations, is multilingual and translatable, and much more.
+[Documentation →](https://docs.contember.com/)
 
-## Create a new project with Contember
+**New**: Check out Contember Studio, an AI tool that rapidly turns your brief app description into a working prototype on the Contember platform. From there, you have complete freedom to modify every detail in the code to suit your needs. Contember Studio is an effortless way to kickstart your projects and get feedback on day one. [Request early access](https://rik9zhzhn1g.typeform.com/to/UWv1lamK).
 
-To create a new project, just run `npm exec "@contember/create@latest" projectname` and go to the [Quick Start](https://docs.contember.com/intro/quickstart) to learn the basics. It will only take a few minutes.
+# ☁️ Contember Cloud
 
-## Running Contember
+When it's time to launch your app, Contember gives you flexibility with two deployment options: self-hosting or leveraging our managed hosting service, Contember Cloud. Contember Cloud takes away the hassle of handling complex aspects such as scaling and security, allowing you to focus on crafting your application.
 
-We've built and run a managed hosting for Contember. It runs on AWS and already handles dozens of requests every second. It's the easiest way to run Contember. [How to work with Contember Cloud](https://docs.contember.com/guides/deploy-contember).
+- **Managed Services**: Let us take care of infrastructure details. We handle all the backend complexities so you can concentrate on building amazing applications.
+- **Expert Support**: You're not alone on this journey. Our team is available to provide support and guidance when needed, ensuring you're never left in the dark.
+- **Cost-Effective**: Contember Cloud offers a simplified, cost-effective solution for deploying and managing your application, saving you the time and resources that would otherwise be required for infrastructure management.
 
-If you're good at running your own stuff and want to host Contember yourself, here's a [guide to self-hosted Contember](https://docs.contember.com/guides/self-hosted-contember).
+[Contember Cloud Pricing →](https://www.contember.com/pricing)
+
+# 🏗️ Getting Started
+
+To create a new project, simply run `npm exec "@contember/create@latest" projectname`. For a quick start, follow our [installation guide](https://github.com/orgs/contember/discussions) and learn the basics.
+
+# 🙋‍♂️ License and Support
+
+Contember is open-source under the Apache 2 license. We also offer an Enterprise Edition with advanced capabilities as part of our managed hosting solution, Contember Cloud.
+
+If you need help, the Contember Documentation is a great place to start, or explore these other channels:
+
+- [Github Discussions →](https://github.com/orgs/contember/discussions) (Questions and Discussions)
+- [GitHub Issues →](https://github.com/orgs/contember/issues) (Report Bugs)
+- [Twitter →](https://twitter.com/contember) (Latest News)
+
+# Why we build Contember
+
+We're about streamlining the process of building web apps. We believe developers should spend time on creating solutions that matter, not on wrestling with complexities of technology stack. With Contember, you can build custom backends, CMSes, CRM systems, portals, and more, all with less fuss and more focus.
+
+# Explore Further
+
+- [How Contember works →](https://docs.contember.com/intro/how-it-works)
+- [Quickstart guide to build your first project →](https://docs.contember.com/intro/quickstart)
+- [Starter Kits / Examples →](https://github.com/contember/starter-kits)
