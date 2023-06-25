@@ -35,10 +35,10 @@ If you need help, the Contember Documentation is a great place to start, or expl
 
 - Questions and Discussions: [Github Discussions →](https://github.com/orgs/contember/discussions)
 - Report Bugs:
-  - [Interface GitHub Issues →](https://github.com/orgs/contember/interface/issues)
-  - [Engine GitHub Issues →](https://github.com/orgs/contember/engine/issues)
-  - [Starter-kits GitHub Issues →](https://github.com/orgs/contember/starter-kits/issues)
-  - [Documentation GitHub Issues →](https://github.com/orgs/contember/docs/issues)
+  - [Interface GitHub Issues →](https://github.com/contember/interface/issues)
+  - [Engine GitHub Issues →](https://github.com/contember/engine/issues)
+  - [Starter-kits GitHub Issues →](https://github.com/contember/starter-kits/issues)
+  - [Documentation GitHub Issues →](https://github.com/contember/docs/issues)
 - Latest News: [Twitter →](https://twitter.com/contember)
 
 # Why we build Contember
