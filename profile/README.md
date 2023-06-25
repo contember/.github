@@ -33,9 +33,13 @@ Contember is open-source under the Apache 2 license. We also offer an Enterprise
 
 If you need help, the Contember Documentation is a great place to start, or explore these other channels:
 
-- [Github Discussions →](https://github.com/orgs/contember/discussions) (Questions and Discussions)
-- [GitHub Issues →](https://github.com/orgs/contember/issues) (Report Bugs)
-- [Twitter →](https://twitter.com/contember) (Latest News)
+- Questions and Discussions: [Github Discussions →](https://github.com/orgs/contember/discussions)
+- Report Bugs:
+  - [Interface GitHub Issues →](https://github.com/orgs/contember/interface/issues)
+  - [Engine GitHub Issues →](https://github.com/orgs/contember/engine/issues)
+  - [Starter-kits GitHub Issues →](https://github.com/orgs/contember/starter-kits/issues)
+  - [Documentation GitHub Issues →](https://github.com/orgs/contember/docs/issues)
+- Latest News: [Twitter →](https://twitter.com/contember)
 
 # Why we build Contember
 
