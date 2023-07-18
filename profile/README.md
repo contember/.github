@@ -37,7 +37,7 @@ If you need help, the Contember Documentation is a great place to start, or expl
 - Report Bugs:
   - [Interface GitHub Issues →](https://github.com/contember/interface/issues)
   - [Engine GitHub Issues →](https://github.com/contember/engine/issues)
-  - [Starter-kits GitHub Issues →](https://github.com/contember/starter-kits/issues)
+  - [Examples GitHub Issues →](https://github.com/contember/examples/issues)
   - [Documentation GitHub Issues →](https://github.com/contember/docs/issues)
 - Latest News: [Twitter →](https://twitter.com/contember)
 
