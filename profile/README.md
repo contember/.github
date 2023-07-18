@@ -49,4 +49,4 @@ We're about streamlining the process of building web apps. We believe developers
 
 - [How Contember works →](https://docs.contember.com/intro/how-it-works)
 - [Quickstart guide to build your first project →](https://docs.contember.com/intro/quickstart)
-- [Starter Kits / Examples →](https://github.com/contember/starter-kits)
+- [Examples →](https://github.com/contember/examples)
