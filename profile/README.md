@@ -11,7 +11,10 @@ It's the power tool you need for your web development toolkit. Here's why:
 
 [Documentation →](https://docs.contember.com/)
 
-**New**: Check out Contember Studio, an AI tool that rapidly turns your brief app description into a working prototype on the Contember platform. From there, you have complete freedom to modify every detail in the code to suit your needs. Contember Studio is an effortless way to kickstart your projects and get feedback on day one. [Request early access](https://rik9zhzhn1g.typeform.com/to/UWv1lamK).
+# ✨ Contember AI Studio
+AI tool that rapidly turns your brief app description into a working prototype on the Contember platform. From there, you have complete freedom to modify every detail in the code to suit your needs. Contember Studio is an effortless way to kickstart your projects and get feedback on day one.
+
+[Contember Studio →](https://www.contember.com/studio?utm_medium=github&utm_source=readme)
 
 # ☁️ Contember Cloud
 
@@ -21,7 +24,7 @@ When it's time to launch your app, Contember gives you flexibility with two depl
 - **Expert Support**: You're not alone on this journey. Our team is available to provide support and guidance when needed, ensuring you're never left in the dark.
 - **Cost-Effective**: Contember Cloud offers a simplified, cost-effective solution for deploying and managing your application, saving you the time and resources that would otherwise be required for infrastructure management.
 
-[Contember Cloud Pricing →](https://www.contember.com/pricing)
+[Contember Cloud Pricing →](https://www.contember.com/pricing?utm_medium=github&utm_source=readme)
 
 # Getting Started
 
