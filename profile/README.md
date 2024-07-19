@@ -28,20 +28,18 @@ When it's time to launch your app, Contember gives you flexibility with two depl
 
 # Getting Started
 
-To create a new project, simply run `npm exec "@contember/create@latest" projectname`. For a quick start, follow our [installation guide](https://github.com/orgs/contember/discussions) and learn the basics.
+To create a new project, simply run `npx "@contember/create@next" projectname`. For a quick start, follow our [installation guide](https://github.com/orgs/contember/discussions) and learn the basics.
 
 # License and Support
 
-Contember is open-source under the Apache 2 license. We also offer an Enterprise Edition with advanced capabilities as part of our managed hosting solution, Contember Cloud.
+Contember is open-source under the Apache 2 license.
 
 If you need help, the Contember Documentation is a great place to start, or explore these other channels:
 
 - Questions and Discussions: [Github Discussions →](https://github.com/orgs/contember/discussions)
 - Report Bugs:
-  - [Interface GitHub Issues →](https://github.com/contember/interface/issues)
-  - [Engine GitHub Issues →](https://github.com/contember/engine/issues)
+  - [GitHub Issues →](https://github.com/contember/contember/issues)
   - [Examples GitHub Issues →](https://github.com/contember/examples/issues)
-  - [Documentation GitHub Issues →](https://github.com/contember/docs/issues)
 - Latest News: [Twitter →](https://twitter.com/contember)
 
 # Why we build Contember
